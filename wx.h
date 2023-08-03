@@ -11,7 +11,6 @@
 #ifndef _WX_WX_H_
 #define _WX_WX_H_
 
-#include "wx/defs.h"
 #include "wx/object.h"
 #include "wx/dynarray.h"
 #include "wx/list.h"
